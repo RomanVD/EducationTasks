@@ -14,7 +14,7 @@ namespace EducationTasks.Task1
 
             //Какие действия выполняет оператор new?
 
-            //В каком порядке инициализируются свойства и поля?
+            //В каком порядке инициализируются свойства и поля в приведенном примере?
 
             //Чему будет равно SpecialMoney, DefaultMoney и PublicKey?
 
@@ -22,12 +22,10 @@ namespace EducationTasks.Task1
             
             var child = new MyChildClass("text", 1);
 
-            //* Изменится ли порядок инициализации статических свойст DefaultMoney и SpecialMoney, если раскомментировать строку 59?            
-
             //* Как статические поля/методы/свойства/классы влияют на потокобезопасность?
 			// https://stackoverflow.com/questions/1090650/are-static-methods-thread-safe
 
-            //* Можно ли объявить такое поле public const MyChildClass = new MyChildClass(); в каком нибудь другом классе?
+            //* Можно ли объявить такое поле "public const MyChildClass = new MyChildClass();" в каком нибудь другом классе?
 			
 			//Полезная инфа:
 			//https://habrahabr.ru/post/206082/
@@ -60,7 +58,6 @@ namespace EducationTasks.Task1
 
         static MyChildClass()
         {
-            //DefaultMoney = 15m;
             SpecialMoney = 30m;            
         }
 
