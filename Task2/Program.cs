@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 //Что находится в каждой из этих сборок?
 using System.Collections;
 using System.Collections.Generic;
@@ -13,10 +13,13 @@ namespace EducationTasks.Task1
     {
         static void Main(string[] args)
         {
-            //Проиллюстрируй в коде иерархию наследования коллекций.
+            //Проиллюстрируй в коде иерархию наследования коллекций, как показано ниже.
+			//Продолжи цепочку наследования классов коллекций.
+			//Цель - запомнить иерархию наследования коллекций, какой интерфейс какие методы содержит.
         }
     }
 
+	//Создаем свою реализацию базового интерфейса коллекции (имплементировать методы не обязательно)
     class MyIEnumerable : IEnumerable
     {
         public IEnumerator GetEnumerator()
@@ -25,6 +28,8 @@ namespace EducationTasks.Task1
         }
     }
 
+	//Потом создадим свою реализацию-пустышку для следующего в цепочке наследования интерфейса-коллекции
+	//Наследуем его от нашего класса и реализуем следующий в цепочке интерфейс.
     class MyIEnumerable<T> : MyIEnumerable, IEnumerable<T>
     {
         IEnumerator<T> IEnumerable<T>.GetEnumerator()
@@ -33,6 +38,7 @@ namespace EducationTasks.Task1
         }
     }
 
+	//И дальше в таком же духе.
     class MyICollection<T> : MyIEnumerable<T>, ICollection<T>
     {
         public int Count => throw new NotImplementedException();
