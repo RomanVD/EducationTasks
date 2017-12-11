@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,9 +24,13 @@ namespace EducationTasks.Task1
 
             //* Изменится ли порядок инициализации статических свойст DefaultMoney и SpecialMoney, если раскомментировать строку 59?            
 
-            //* Нарисуй примерную схему того, что будет находиться в оперативной памяти после вызова new MyChildClass("text", 1)
+            //* Как статические поля/методы/свойства/классы влияют на потокобезопасность?
+			// https://stackoverflow.com/questions/1090650/are-static-methods-thread-safe
 
             //* Можно ли объявить такое поле public const MyChildClass = new MyChildClass(); в каком нибудь другом классе?
+			
+			//Полезная инфа:
+			//https://habrahabr.ru/post/206082/
         }
     }
 
