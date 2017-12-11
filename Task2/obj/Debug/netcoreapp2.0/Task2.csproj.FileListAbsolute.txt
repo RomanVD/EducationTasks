@@ -1,0 +1,11 @@
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\bin\Debug\netcoreapp2.0\Task2.deps.json
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\bin\Debug\netcoreapp2.0\Task2.runtimeconfig.json
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\bin\Debug\netcoreapp2.0\Task2.runtimeconfig.dev.json
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\bin\Debug\netcoreapp2.0\Task2.dll
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\bin\Debug\netcoreapp2.0\Task2.pdb
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\obj\Debug\netcoreapp2.0\Task2.csprojResolveAssemblyReference.cache
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\obj\Debug\netcoreapp2.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\obj\Debug\netcoreapp2.0\Task2.AssemblyInfoInputs.cache
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\obj\Debug\netcoreapp2.0\Task2.AssemblyInfo.cs
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\obj\Debug\netcoreapp2.0\Task2.dll
+C:\Users\rdolgopolov\Documents\GitHub\EducationTasks\Task2\obj\Debug\netcoreapp2.0\Task2.pdb
