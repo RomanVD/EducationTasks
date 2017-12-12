@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CC029391-5BE7-44B3-B8A9-ACB8D2315075}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EducationTasks</RootNamespace>
+    <RootNamespace>EducationTasks.Task1</RootNamespace>
     <AssemblyName>EducationTasks</AssemblyName>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />

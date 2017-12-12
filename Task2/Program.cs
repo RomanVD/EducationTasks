@@ -1,13 +1,10 @@
 using System;
-//Что находится в каждой из этих сборок?
 using System.Collections;
 using System.Collections.Generic;
-using System.Collections.Specialized;
-using System.Collections.Concurrent;
-using System.Linq;
-using System.Linq.Expressions;
 
-namespace EducationTasks.Task1
+//Что находится в каждой из этих сборок?
+
+namespace EducationTasks.Task2
 {
     class Program
     {
