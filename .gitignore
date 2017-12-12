@@ -1,9 +1,9 @@
-EducationTasks/Task1/obj
-EducationTasks/Task1/bin
+/Task1/obj
+/Task1/bin
 .vs
 /.vs
-EducationTasks/Task2/obj
-EducationTasks/Task2/bin
+/Task2/obj
+/Task2/bin
 packages/Autofac.4.6.2/lib/netstandard1.1/Autofac.xml
 packages/Autofac.4.6.2/Autofac.4.6.2.nupkg
 packages/Autofac.4.6.2/lib/net45/Autofac.xml
