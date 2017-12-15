@@ -1,8 +1,8 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
-using System.Text;
 
-namespace EducationTasks.Task2
+namespace EducationTasks.Task2.collections
 {
     //И дальше в таком же духе.
     public class MyICollection<T> : MyIEnumerable<T>, ICollection<T>

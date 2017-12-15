@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using EducationTasks.Task2.collections;
 
-namespace EducationTasks.Task2
+namespace EducationTasks.Task2.lists
 {
     public class MyIList<T> : MyICollection<T>,IList<T>
     {

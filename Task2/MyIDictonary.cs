@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using EducationTasks.Task2.collections;
 
 namespace EducationTasks.Task2
 {
-    public class MyIDictonary<TKey,TValue> : MyICollection<KeyValuePair<TKey, TValue>>,IDictionary<TKey,TValue>
+    public class MyIDictonary<TKey,TValue> : MyICollection<KeyValuePair<TKey, TValue>>, IDictionary<TKey,TValue>
     {
         public void Add(TKey key, TValue value)
         {

@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using EducationTasks.Task2.collections;
 
-namespace EducationTasks.Task2
+namespace EducationTasks.Task2.sets
 {
     public class MyISet<T>: MyICollection<T>,ISet<T>
     {
