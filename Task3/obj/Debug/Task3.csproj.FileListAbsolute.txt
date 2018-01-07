@@ -1,0 +1,7 @@
+D:\MyProjects\EducationTasks.git\Task3\bin\Debug\Task3.exe.config
+D:\MyProjects\EducationTasks.git\Task3\bin\Debug\Task3.exe
+D:\MyProjects\EducationTasks.git\Task3\bin\Debug\Task3.pdb
+D:\MyProjects\EducationTasks.git\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\MyProjects\EducationTasks.git\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\MyProjects\EducationTasks.git\Task3\obj\Debug\Task3.exe
+D:\MyProjects\EducationTasks.git\Task3\obj\Debug\Task3.pdb
